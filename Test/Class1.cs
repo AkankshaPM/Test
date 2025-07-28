@@ -8,6 +8,10 @@ namespace Test
 {
     internal class Class1
     {
-        int a
+        int a;
+      public void Add()
+        {
+
+        }
     }
 }
