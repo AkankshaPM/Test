@@ -12,6 +12,7 @@ namespace Test
       public void Add()
         {
 
+            Console.WriteLine("Hi Hello")
         }
     }
 }
