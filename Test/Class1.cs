@@ -11,8 +11,8 @@ namespace Test
         int a;
       public void Add()
         {
-
-            Console.WriteLine("Hi Hello")
+            int a, b, c;
+            Console.WriteLine("Hi Hello");
         }
     }
 }
